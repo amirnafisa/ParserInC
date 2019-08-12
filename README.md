@@ -1,6 +1,7 @@
 # Earley Parser
 
 ***Compile Command: make***
+
 ***Run Command: make run***
 
 test.gr is a test grammar file for showing a demo and a sample sentence is used in the main file. Feel free to play with grammar and sentence.
